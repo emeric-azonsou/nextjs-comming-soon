@@ -22,7 +22,7 @@ export default function Home() {
 
   return (
     <>
-    {/* <ThemeSwitcher /> */}
+      {/* <ThemeSwitcher /> */}
       <main className="flex min-h-screen flex-col items-center justify-between p-5 lg:p-12">
         <div className="z-10 w-full max-w-5xl items-center justify-between text-sm ">
 
@@ -32,10 +32,10 @@ export default function Home() {
               href="/"
               rel="noopener noreferrer"
             >
-              <div className='flex flex-col text-center'>
+              {/* <div className='flex flex-col text-center'>
                 <h1 className='text-2xl lgtext-4xl text-sky-400/100 font-semibold	'> {sitename} </h1>
                 <p className='text-2 font-medium m-2 text-slate-800 dark:text-slate-100'>{sitetagline}</p>
-              </div>
+              </div> */}
             </a>
           </div>
         </div>
@@ -51,7 +51,7 @@ export default function Home() {
           </p>
         </div>
 
-      <div className='text-center lg:m-7 mt-10 w-80 p-3' >
+        {/* <div className='text-center lg:m-7 mt-10 w-80 p-3' >
           <form className="space-y-6" action="#" method="POST">
             <div>
               <label htmlFor="email" className="block text-slate-800 dark:text-slate-100  font-light text-sm leading-6">{newsletterheading}</label>
@@ -61,10 +61,10 @@ export default function Home() {
               </div>
             </div>
           </form>
-        </div>
+        </div> */}
 
         <footer className='text-slate-500 text-center'>
-          <div className='my-4 text-center' >
+          {/* <div className='my-4 text-center' >
             <ul className='flex flex-wrap lg:flex justify-center '>
               <li className='px-2'> {socialIconsHeading} </li>
               {socialIcons.map((social, index) =>
@@ -75,7 +75,7 @@ export default function Home() {
               )
               )}
             </ul>
-          </div>
+          </div> */}
           <div className=''>
             <p className='' dangerouslySetInnerHTML={{
               __html: copyrightText
