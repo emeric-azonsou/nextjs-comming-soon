@@ -4,7 +4,7 @@ const data = {
   sitelogo: "",
   title: "Bientôt disponible ",
   description:
-    "Nous travaillons actuellement 👨‍💻 d'arrache-pied pour vous apporter quelque chose de génial, et nous avons hâte de le partager avec vous. Notre équipe met la touche finale à un nouveau projet 🚀 que nous pensons que vous allez adorer.",
+    "Nous finalisons les derniers réglages. Ouverture du site prévue le 25/03/2025 à 18h. Merci de votre patience !",
   newsletterheading: "Stay tuned for our live updates!",
   copyrightText: "Copyright © 2024 | Roc Creative Studio",
   socialIconsHeading: "Follow Us 📣",
